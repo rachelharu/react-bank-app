@@ -138,3 +138,8 @@
   background: rgba(255, 255, 255, 0.6);
   filter: blur(300px);
 }
+
+.client-image:hover {
+ cursor: pointer;
+ filter: drop-shadow(16px 16px 20px red) invert(75%);
+}
